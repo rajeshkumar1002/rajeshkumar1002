@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm Rajesh Kumar and I'm a backend engineer, solution designer & system analyst.
+### Hi, I'm Rajesh Kumar and I'm a backend engineer, solution designer & system analyst.
+## linkedIn : @rajeshkankran
+
 🔭 I’m currently working on AWS Serverless.
 
 🌱 I’m currently learning Deno and GoLang.
