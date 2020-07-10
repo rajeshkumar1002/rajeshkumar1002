@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Rajes Kumar and I'm a backend engineer, solution designer, system analyst
+### Hi there 👋 , I'm Rajesh Kumar and I'm a backend engineer, solution designer, system analyst
 
 <!--
 **rajeshkumar1002/rajeshkumar1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
