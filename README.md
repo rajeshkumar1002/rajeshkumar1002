@@ -1,4 +1,4 @@
-### Hi, I'm Rajesh and I'm a backend engineer, solution designer & system analyst.
+### Hi, I'm a backend engineer, solution designer & system analyst.
     linkedIn : @rajeshkankran
 
 🔭 I’m currently working on AWS Serverless.
